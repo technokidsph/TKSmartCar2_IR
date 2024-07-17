@@ -1,8 +1,8 @@
- # Technokids SmartCar2_IR for micro-bit
+ # Technokids IR for micro-bit
 
-Extension for Technokids SmartCar2 IR
+Extension for Technokids IR
 
-Note: IR receiver for Technokids SmartCar2 receiver
+Note: IR receiver for Technokids IRremote
 
 ## License
 
